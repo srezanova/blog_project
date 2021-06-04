@@ -1,2 +1,5 @@
-# blog_project
-Blog project using Django 
+# BLOG PROJECT
+Blog project using Django, Bootstrap and medium-editor
+
+Deployed with pythonanywhere
+http://srezanova.pythonanywhere.com/
